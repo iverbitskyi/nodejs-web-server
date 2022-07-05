@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "node js learn basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Ivan Verbitskyi <ivan.verbitskyj@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
